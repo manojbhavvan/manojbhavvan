@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👨🏻‍💻 I'm a Software Engineer Intern <br><br>🔭 I’m currently working at Recruit CRM<br><br>🌱 I’m currently learning Vue Js<br><br>👯 I’m looking to collaborate on Freelance Projects<br><br>💬 Ask me about ML and Research Internships<br><br>📫 How to reach me manojbhavvan124@gmail.com
+<br>👨🏻‍💻 I'm a Software Engineer Intern <br><br>🔭 I’m currently working at Recruit CRM <br><br>🌱 I’m currently learning Vue Js<br><br>👯 I’m looking to collaborate on Freelance Projects<br><br>💬 Ask me about ML and Research Internships<br><br>📫 How to reach me manojbhavvan124@gmail.com
 
 
 ## 🌐 Socials:
