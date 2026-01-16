@@ -1,9 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Next.js<br>💬 Ask me about Development and ML<br>📫 How to reach me manojbhavvan124@gmail.com
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=manojbhavvan&theme=vue&no-frame=false&no-bg=false&margin-w=4)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manojbhavvan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manojbhavvan&theme=dark&hide_border=false)<br/>
